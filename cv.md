@@ -36,8 +36,9 @@ I am sure that the discipline in studying and the love for what I do will make m
 - Git (GitHub)
 
 #### My projects:
-- [Trafalgar Website](https://github.com/vadimsad/Trafalgar-website)
-- [Buddytree website](https://github.com/vadimsad/Buddytreee)
+- [GoCorona layout](https://github.com/vadimsad/GoCorona-layout)
+- [Trafalgar layout](https://github.com/vadimsad/Trafalgar-website)
+- [Buddytree layout](https://github.com/vadimsad/Buddytreee)
 
 #### Code example:
 
